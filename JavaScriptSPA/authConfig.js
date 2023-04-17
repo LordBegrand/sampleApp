@@ -4,9 +4,9 @@
 // visit https://azuread.github.io/microsoft-authentication-library-for-js/docs/msal/modules/_authenticationparameters_.html
 const msalConfig = {
   auth: {
-    clientId: "64eabb89-0e9b-4a65-9c14-27b29278d4eb",
+    clientId: "ee8b1cc6-a658-4e98-8a7e-28ad83227fb8",
     authority: "https://login.microsoftonline.com/a1a7c9c1-a8e4-454a-b0cd-d0428de5014c",
-    redirectUri: "http://localhost:8080/",
+    redirectUri: "http://appserviceappcorewan.azurewebsites.net/",
   },
   cache: {
     cacheLocation: "sessionStorage", // This configures where your cache will be stored
